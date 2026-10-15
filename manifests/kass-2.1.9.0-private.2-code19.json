@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.9.0-private.2 code19 private owner-test prerelease; independent QA/publication approval pending",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 19,
+    "versionName": "2.1.9.0-private.2",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.9.0-private.2/Kass-v2.1.9.0-private.2-code19-review.apk",
+    "bytes": 57634830,
+    "sha256": "69b0e5941d0de8e75e8dce4546936140b024144700d86b4e19921a61d3158a15",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "5975564762de8dd9558c296b9cc3b3593594ca1a8acfd2673a30c110ee399298",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1210,
+    "sha256": "2e0fbb62e14a4e4e05e9f7b83be3da358f38d69884c1db0da7982784c8a42f78",
+    "payloadSha256": "6be49e69365cbf78375c4aa7dbc15cd096b4ab71b9948d45df5778b55b8f2496"
+  },
+  "validation": "Developer tests/package scan recorded locally; Iris QA-2190-20261015-01 disposition must be reviewed before publication",
+  "limitations": [
+    "No metadata expiry/anti-replay/revocation in unchanged controller; explicit owner disposition needed",
+    "Broader Figure Comfort coverage and physical/native full-library/compatibility acceptance remain open"
+  ]
+}
