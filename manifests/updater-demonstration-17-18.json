@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "designation": "Private owner-test updater demonstration; not production acceptance",
+  "repository": "Jaydgreen-afk/Kass-Updates",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c",
+  "publicMetadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e",
+    "spkiBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEl+UxV/oXZh2YTDLkHjZieUoh+ckFbcLBeruiY7Y5y3Zu+Z/ItbJN89+Enbozpn76lbU9Jy8+0OBa67fQr/+asA=="
+  },
+  "artifacts": [
+    {
+      "stage": "bootstrap",
+      "versionCode": 17,
+      "versionName": "2.1.8.1-private.1",
+      "filename": "Kass-v2.1.8.1-private.1-code17-bootstrap.apk",
+      "sha256": "2831a3132283b50a5aad7e60a9ecc01981984f9487efa813201bbb2e7a21fe82",
+      "bytes": 57631513,
+      "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.8.1-private.1/Kass-v2.1.8.1-private.1-code17-bootstrap.apk",
+      "releaseTag": "v2.1.8.1-private.1",
+      "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+      "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c",
+      "sourceBuildId": "540a909dee084c1b4b1b5b8aa67e30ee3afd23a6f064e622fa61eb46a9227b3d"
+    },
+    {
+      "stage": "target",
+      "versionCode": 18,
+      "versionName": "2.1.8.2-private.1",
+      "filename": "Kass-v2.1.8.2-private.1-code18-target.apk",
+      "sha256": "31b3363d867090236a027ee241b5d50fa2aa76e7d84ea8019459a1d573b7f47a",
+      "bytes": 57631665,
+      "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.8.2-private.1/Kass-v2.1.8.2-private.1-code18-target.apk",
+      "releaseTag": "v2.1.8.2-private.1",
+      "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+      "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c",
+      "sourceBuildId": "1ed1f3b3f216590b031fa607b04842d4617a6a8170f365527eaaa8b8802982e2"
+    }
+  ],
+  "channel": {
+    "path": "channels/private-review.json",
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "sha256": "9a3044311b3c6924fa61936a193be915083ceadb1fa52c5413a0c707a2031ea1",
+    "bytes": 1098,
+    "payloadSha256": "6c71075325fd4d95b73cf53265f5b1e39d1fb3edd0e782d342f5c8f97b9009d4"
+  },
+  "validation": "Bounded independent APK static/offline qualification passed; signed publication preparation review and live online acceptance are separate gates"
+}
