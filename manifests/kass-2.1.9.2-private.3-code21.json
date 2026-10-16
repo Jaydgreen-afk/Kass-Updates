@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.9.2-private.3 code21 private owner-test prerelease; bounded independent APK/P2 QA passed; online/physical acceptance separate",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 21,
+    "versionName": "2.1.9.2-private.3",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.9.2-private.3/Kass-v2.1.9.2-private.3-code21-recovery.apk",
+    "bytes": 57650500,
+    "sha256": "b5625544b8e9506a5c55b94337420dcfeb1f670e5ce18be525504b0ef440be04",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "beaa04b27681c18355e93793b405f8966521b41d30d07ca7a050940a71a06146",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1462,
+    "sha256": "2604a19a0085e06ecf2c6ea99dd146d1532a91e4b8d8d65e36cbfd1d628cf58c",
+    "payloadSha256": "fe9ac59e37ac6fdae09bd1657c715e7976b67c1414d2bce5b05f9c205ca9e6be"
+  },
+  "validation": "Independent exact contextual Back/Home and private.3 acknowledged-state regression PASS; signed-package review and actual online20to21 gate separate.",
+  "limitations": [
+    "Existing metadata has no authenticated expiry, anti-replay or revocation; unchanged test-distribution limitation, not newly mitigated.",
+    "Both encrypted metadata-key recovery copies remain on MSI; owner accepted temporary custody risk, not disaster recovery.",
+    "Independent code21 QA is bounded API35/emulator; physical Fold, ARM64/API24/16KiB/full corpus and extensive lifecycle remain unqualified.",
+    "Acknowledged-state rapid restart fixed; unacknowledged navigation/draft durability and multi-client merging are outside guarantee.",
+    "No code21 actual online delivery acceptance until the separately required post-publication emulator run."
+  ]
+}
