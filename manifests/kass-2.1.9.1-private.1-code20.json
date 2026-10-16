@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.9.1-private.1 code20 private owner-test prerelease; bounded independent APK QA passed; metadata review/publication approval pending",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 20,
+    "versionName": "2.1.9.1-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.9.1-private.1/Kass-v2.1.9.1-private.1-code20-native-back.apk",
+    "bytes": 57636186,
+    "sha256": "fb949c045d061390ec4533bd7377c7676f67c0a2daa02ff82a00ac4622d88ebd",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "0218bda0390a3720fa6d19237002adac4a263a36029853919f3b63477e89b266",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1342,
+    "sha256": "b3849ce50ffc9c6b179231a74cae5e190575c0882832c2dd1912f2849ab70a22",
+    "payloadSha256": "80b0387b43de9fab8f3dc0584a8f1ecffedc9b038f9c034149e89407fc181812"
+  },
+  "validation": "Iris exact code20 bounded Native Back review PASS including actual gestures; signed metadata and actual online19to20 delivery remain separate",
+  "limitations": [
+    "Unchanged metadata has no expiry/anti-replay/revocation; exact code20 publication needs explicit owner disposition",
+    "Both encrypted recovery copies remain on same MSI; owner accepted temporary custody risk; not disaster recovery",
+    "No physical Fold/API24/ARM64/16KiB acceptance inferred; no code20 online delivery yet"
+  ]
+}
