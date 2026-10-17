@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.9.3-private.1 code22 private owner-test prerelease; bounded independent candidate QA passed; online/physical acceptance separate",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 22,
+    "versionName": "2.1.9.3-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.9.3-private.1/Kass-v2.1.9.3-private.1-code22-visual.apk",
+    "bytes": 57654849,
+    "sha256": "872779b356518a8ab07bd1924a6da23077e93d006a2bf4f24eee34e2e7952207",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "fb70fedcf6a341d35c3352c2cc47c4ea5ff7b52f75532b883b34a7c5e0d92553",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1474,
+    "sha256": "645c6f42b6dd16eeb68c9767d96b4dc0ee73c79d58bb23fbf58ad06f9a286971",
+    "payloadSha256": "eae34eb64935203292018672127ef4927aa9eac79ebf730080292c067c7cd638"
+  },
+  "validation": "Independent exact bounded visual candidate QA PASS; prior unchanged Back/Home/Continue qualification reused; Android hardware keyboard unverified; signed-package and actual online21to22 gates separate.",
+  "limitations": [
+    "Existing metadata has no authenticated expiry, anti-replay or revocation; unchanged test-distribution limitation, not newly mitigated.",
+    "Both encrypted metadata-key recovery copies remain on MSI; owner accepted temporary custody risk, not disaster recovery.",
+    "Independent code22 QA is bounded API35/emulator; Android hardware keyboard remains unverified; physical Fold, ARM64/API24/16KiB/full corpus and extensive lifecycle remain unqualified.",
+    "Acknowledged-state rapid restart fixed; unacknowledged navigation/draft durability and multi-client merging are outside guarantee.",
+    "No code22 actual online delivery acceptance until the separately required post-publication emulator run."
+  ]
+}
