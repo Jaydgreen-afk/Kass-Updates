@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.9.4-private.1 code23 private owner-test prerelease; bounded independent artifact and Android QA passed; online/physical acceptance separate",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 23,
+    "versionName": "2.1.9.4-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.9.4-private.1/Kass-v2.1.9.4-private.1-code23-interface.apk",
+    "bytes": 57662443,
+    "sha256": "f991e5c0cd0cfdfbabd93374c0155742b7459eede769ee172898a07410bb52eb",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "0c76ff07acd3a3e7f7239b4f6cee9d4cdee36bb1240294ae2512c4ca2dd5fc9c",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1490,
+    "sha256": "54497174d12d568bd38fb680881fa7f92258582f02c2a3f1b073b0131d63f9bb",
+    "payloadSha256": "005a65d4b5fa771060e8767cc2f544959ad49d992a8e748d3a7dd8558e96bec8"
+  },
+  "validation": "Independent exact artifact/local upgrade/13affected Android groups PASS; actual online23 and structured-original toggle coverage remain unverified.",
+  "limitations": [
+    "Existing metadata has no authenticated expiry, anti-replay or revocation; unchanged test-distribution limitation.",
+    "Both encrypted signing-key recovery copies remain on MSI; owner accepted temporary custody risk, not disaster recovery.",
+    "Exact independent Android QA is bounded API35/x86_64; no physical Fold, ARM64/API24/16KiB/full real-manual corpus, stylus/hardware-keyboard or extensive lifecycle qualification.",
+    "Structured original/formatted toggle not exercised because preserved OEM fixture lacks an article; coverage gap, not demonstrated defect.",
+    "Actual online22-to23 discovery/download/Android installer/data recovery remains untested until separately authorized publication and independent live flow.",
+    "Unacknowledged draft/navigation durability and multi-client merging remain outside guarantee."
+  ]
+}
