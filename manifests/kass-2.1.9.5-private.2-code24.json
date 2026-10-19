@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.9.5-private.2/code24 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 24,
+    "versionName": "2.1.9.5-private.2",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.9.5-private.2/Kass-v2.1.9.5-private.2-code24-library-continue.apk",
+    "bytes": 57665775,
+    "sha256": "767d4f0f1f7a43a6f45cb43bada8007ff6acb3e9861eceadfa0d6032036026e2",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "bbd6438e008e554302dcceb4229ef54d162080b68234129be6582880da4ee84f",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1558,
+    "sha256": "09f198dcd8b5ae0e763b75e25f0179f4f3e766221be6559ba7c279a51da2de6a",
+    "payloadSha256": "de308231f22fdcab9c72c58de690726f012d94a5fd2daa5b459a61f29a0a8b85"
+  },
+  "validation": "Iris bounded independent exact APK/direct local23-to-final24/12functional+3error-theme Android groups and39table preservation PASS. No code24 online or physical acceptance.",
+  "limitations": [
+    "No authenticated metadata expiry, anti-replay or revocation; existing limitation, not changed.",
+    "Both encrypted metadata-key copies remain on the MSI under owner-accepted temporary custody; not disaster recovery.",
+    "Independent exact-artifact/runtime QA bounded API35/x86_64; no physical Fold, ARM64 runtime, API24,16KiB, stylus, real-manual fidelity or extended lifecycle acceptance.",
+    "Actual code24 online discovery/download/Android installer flow is not yet tested; no code24 public files or channel activation authorized.",
+    "Unacknowledged drafts and multi-client durability remain outside guarantee."
+  ]
+}
