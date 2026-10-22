@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.10.0-private.1/code25 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 25,
+    "versionName": "2.1.10.0-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.10.0-private.1/Kass-v2.1.10.0-private.1-code25-mayhem.apk",
+    "bytes": 57674206,
+    "sha256": "54c3e677f33c311d9cc9e83bb08ae6eba0abe828dcd20e54b1199934cfb16753",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "e6b298d9b6cef89d805e7b4a7b70793f972052871a7f5d5e28afb39c0fa59c2c",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1590,
+    "sha256": "9533d235b9742993980e00b78cbb28ccf8a12177d2b8c8dc460863451a1780be",
+    "payloadSha256": "5646fc9a36a71191f688eaf1c52d536021659432a08637f1090e81075e9bbda6"
+  },
+  "validation": "Iris bounded exact-APK API35/x86_64 local24-to25 synthetic-data qualification PASS; online delivery and owner acceptance separate.",
+  "limitations": [
+    "No authenticated metadata expiry, anti-replay or revocation in existing controller; unchanged limitation.",
+    "Both encrypted metadata key copies remain on MSI under accepted temporary custody, not disaster recovery.",
+    "Independent API35/x86_64/WebView124 synthetic-data scope; actual CSS420/960. Native menu directional-key/accessibility enumeration unverified.",
+    "No code25 HTTPS delivery, physical/ARM64/Fold/stylus/API24/real-manual/SAF/extended lifecycle acceptance.",
+    "Authored fixture addition is not native import acceptance; no owner data inspected."
+  ]
+}
