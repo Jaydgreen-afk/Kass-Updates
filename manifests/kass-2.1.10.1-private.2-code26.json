@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.10.1-private.2/code26 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 26,
+    "versionName": "2.1.10.1-private.2",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.10.1-private.2/Kass-v2.1.10.1-private.2-code26-settings-home.apk",
+    "bytes": 57674238,
+    "sha256": "9a189e09dc0127e2b55abebabeb96af9d256c3ded81948a412fcfcff1b37e4ae",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "feddde47d49cc0f80435d642a1e81b9ca052460c1fda3dfc8e91c777313b86a1",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1610,
+    "sha256": "ea3abaa2e71699c0cbe1e79ac2bc6dc7e1501bf680b92b02231e030e2534aafc",
+    "payloadSha256": "faca4b8a24ed916c97b5c96179d5ec80ac4a48ea4a938d605362720272b36a6d"
+  },
+  "validation": "Iris bounded exact-APK API35/x86_64 local25-to26 synthetic-data qualification PASS; online delivery and owner acceptance separate.",
+  "limitations": [
+    "Existing updater has no authenticated metadata expiry, anti-replay or revocation; unchanged limitation.",
+    "Both encrypted metadata-key copies remain on MSI under owner-accepted temporary custody, not disaster recovery.",
+    "Independent final APK testing is targeted API35/x86_64/WebView124 with synthetic data, representative768px Settings/Home,900px shortlandscape and360px narrowHome; not actual Fold geometry or ARM64 execution.",
+    "Shortlandscape Settings remains cramped despite reachable independent scrolling; narrower-than548usable Settings keeps single-column fallback.",
+    "No code26 HTTPS updater delivery, physical Fold/stylus/API24/16KiB/realmanual/SAF/extended lifecycle acceptance. Existing broader compatibility gates unchanged."
+  ]
+}
