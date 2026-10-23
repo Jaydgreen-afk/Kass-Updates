@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.11.0-private.2/code27 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 27,
+    "versionName": "2.1.11.0-private.2",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.11.0-private.2/Kass-v2.1.11.0-private.2-code27-layout-fix.apk",
+    "bytes": 57708564,
+    "sha256": "a16aab410f59a2b2ff6e69d1c40cb7460462daf55f537db74ca7fafe3849ffcc",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "76084f0e41474743cb3917b78f880cbc5dd86cf2748267b2da6b19a9f66373bc",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1582,
+    "sha256": "e662b860727ceabcfd14764e28272ab92e57ea24e88d0319ef78d4712338c29d",
+    "payloadSha256": "851397a924320041218f5bba70433570e7fcf0d11b6ccb8c90236a4ab722cdf2"
+  },
+  "validation": "Iris bounded exact-private.2 API35/x86_64 synthetic-data popup correction qualification closed IRIS-CODE27-LAYOUT-01. Prior core/notes evidence remains separate; online27 and owner acceptance pending.",
+  "limitations": [
+    "Existing signed update metadata has no authenticated expiry, anti-replay or revocation; unchanged limitation.",
+    "Both encrypted metadata-key copies remain on MSI under owner-accepted temporary custody, not disaster recovery.",
+    "Independent testing is bounded API35/x86_64/WebView124 with authored synthetic libraries; not general documentation fidelity or physical Fold acceptance.",
+    "Requested Stack can use the documented Focus fallback when available height cannot fit both minimum panel bodies.",
+    "Online code27 delivery, physical Fold/ARM64/stylus, API24,16-KiB, held-out real-manual/SAF and extended lifecycle acceptance remain separate."
+  ]
+}
