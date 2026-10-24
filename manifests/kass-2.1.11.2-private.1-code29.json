@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.11.2-private.1/code29 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 29,
+    "versionName": "2.1.11.2-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.11.2-private.1/Kass-v2.1.11.2-private.1-code29-callouts.apk",
+    "bytes": 57713065,
+    "sha256": "c1671ef7fb1e027ae27ed6b8a9becc1cfa4fd1e2c2e3dbb05f11df6f1d95c22a",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "ad1fed6dac01317a2431c7f847f4a461043701fa66d2ca1672463734ccfd9800",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1534,
+    "sha256": "e9e2667dfe48ad9eb7a4cac1cde87a8b3f2d5c4543c34a5c5e02ac435e0e12fa",
+    "payloadSha256": "c775f837b27ac7168b4d868ddcba4dd612b539656a47a0553d040670140efe04"
+  },
+  "validation": "Iris bounded local API35/x86_64 native PASS: actual SELECT, owning-symbol focus, Back, dirty-note guards, selected colors, local streamed28to29 and coldboots/data checks. Actual online updater gate pending.",
+  "limitations": [
+    "Private owner-test candidate; not production-stable or physical Fold acceptance.",
+    "Independent local streamed28to29 native/emulator qualification only; actual HTTPS28to29 discovery/download/Android installer/coldboot/equal-version gate remains.",
+    "Historical incremental-install disappearance cause remains unresolved; streamed coldboot success does not diagnose it.",
+    "Metadata has no authenticated expiry, anti-replay or revocation; unchanged limitation.",
+    "Both encrypted recovery copies remain on the same MSI under owner-accepted temporary custody, not disaster recovery.",
+    "Physical ARM64/API24/full-manual/native SAF/E Ink/16-KiB and broad lifecycle gates remain separate."
+  ]
+}
