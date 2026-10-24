@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.11.1-private.3/code28 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 28,
+    "versionName": "2.1.11.1-private.3",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.11.1-private.3/Kass-v2.1.11.1-private.3-code28-select-back.apk",
+    "bytes": 57712983,
+    "sha256": "6cf36d1fdbb90fe023e30d988396df0a2d0b756fdd3b02bf381bda4ef39a2261",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "91f7ecbbe22caebe0c0101c4cf3d8ce135a3a9ab00208290aa17cfec7987313a",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1458,
+    "sha256": "af92f30851b53fe87df7993314274a9ef95799f3b3209be8939e992b7f486227",
+    "payloadSha256": "67de8d1caf5f1e2da2c54e1fd071f7df40f3299340f2c76a6cc697e29eb48d8a"
+  },
+  "validation": "Iris exact private3 targeted API35/x86_64 native PASS closes IRIS-CODE28-SELECT-BACK-01. Focused second picker closes before earlier one. All-five native choices, representative manufacturer-minimum rejection and dirty cancellation verified; actual online27to28 gate pending.",
+  "limitations": [
+    "Private owner-test candidate, not production-stable or physical Fold acceptance.",
+    "Actual published27-to28 HTTPS discovery/download/Android installer confirmation and subsequent cold boot remain an independent gate; local same-code replacement is not online acceptance.",
+    "Earlier incremental-install APK disappearance remains unresolved; streamed cold-boot success does not establish its cause or repair.",
+    "Metadata has no authenticated expiry, anti-replay or revocation; unchanged limitation.",
+    "Both encrypted metadata-key recovery copies remain on the MSI under owner-accepted temporary custody, not disaster recovery.",
+    "Real-manual/SAF, full Mods/import, ARM64, API24,16-KiB and broad lifecycle acceptance remain separate."
+  ]
+}
