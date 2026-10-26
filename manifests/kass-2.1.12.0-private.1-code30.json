@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.12.0-private.1/code30 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 30,
+    "versionName": "2.1.12.0-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.12.0-private.1/Kass-v2.1.12.0-private.1-code30-visual.apk",
+    "bytes": 57725816,
+    "sha256": "9f03b1a241bf234552162b912bd469b754e6b62d6b181a176c11a8849a64a510",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "3c13ac90100fc0a52c45edd7cbf529179fbcab5ae03d004d64fdc4fce0fd83eb",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1714,
+    "sha256": "8d1cd65228e866d54790a188e0c35fe18bffb27add07da622535a2bcc04e782d",
+    "payloadSha256": "4a448a6c8858860e42b1ac9ca64118b6137766e9a3cf37bfbf2b6827247abafd"
+  },
+  "validation": "Iris bounded local API35/x86_64 native PASS: exact compiled palette/source binding, streamed29-to30, persisted synthetic records, coldboot, themes/input/offline; actual online updater/installer gate pending.",
+  "limitations": [
+    "Private owner-test candidate, not production-stable or owner Fold acceptance.",
+    "Independent local streamed29-to30 native/preservation PASS; actual HTTPS discovery/download/Android installer/coldboot/equal30 gate pending.",
+    "Shown reader space costs36-39px in matched cases; hidden net reader gain83-84px over oldshown; figure gain0 at360/768, limited at1200. Supported reader cap160%, not200%.",
+    "Existing black-ink low contrast on Dark no-image paper remains; not a new30 regression; saved strokes preserved.",
+    "Native Back uses recorded origin; header Back uses document history, not interchangeable.",
+    "Historical incremental-install disappearance cause remains unresolved.",
+    "Metadata lacks authenticated expiry/anti-replay/revocation; unchanged limitation.",
+    "Both encrypted recovery copies remain on same MSI under owner-accepted temporary custody, not disaster recovery.",
+    "ARM64/API24/fullmanual/SAF/EInk/16KiB/physicalstylus/broadlifecycle and production signing acceptance remain separate."
+  ]
+}
