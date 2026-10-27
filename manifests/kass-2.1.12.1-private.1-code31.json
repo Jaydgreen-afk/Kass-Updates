@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.12.1-private.1/code31 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 31,
+    "versionName": "2.1.12.1-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.12.1-private.1/Kass-v2.1.12.1-private.1-code31-fidelity.apk",
+    "bytes": 57754811,
+    "sha256": "1bce6db902fef1d829a24535fa46881b4328849dfa7a7bef0a28d99997274ed3",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "306e003481b3b30aeb5d4507f2bcf1387c0b20ee030b64b9c8fbe962e72e7c5e",
+  "reviewedSourceId": "21475dfca8d2a38fc9dcef0a4e98f5af3073aedaa72f64b79cae2f02d490634e",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1590,
+    "sha256": "6cf734a9a5db9b2cec7f177291d1726d105e46089d23d03b478fcae06d6afe2c",
+    "payloadSha256": "1abe98624b45eb169b9c96a8a6177d1d7fcc4d9d61daad8451a58ac33756e494"
+  },
+  "validation": "Independent bounded local installer30-to31/cancel/offline/preservation and focused native journeys PASS. Exact reports retained; actual online updater pending.",
+  "limitations": [
+    "Private owner-test candidate, not production-stable or physical Fold acceptance.",
+    "Independent bounded local code30-to31 Android installer/cancel/offline/preservation and seven focused native stages PASS. Actual Kass HTTPS discovery/download/controller/installer/equal31 check pending.",
+    "Native fixture has one Mod, one document and one mapping; paired source navigation passed, native many-to-many/ambiguity/failed-source paths not qualified. Prior desktop evidence is separate.",
+    "Earlier native structured RESULTS stage detail was overwritten by harness; preserved screenshots/scripts/output and separate reports remain. Seven followup stages append-safe; do not invent missing prior details.",
+    "Requested wide display clamped to actual1920px; no1200-CSS-width claim.",
+    "Prior measured shown-reader space tradeoff, supported160% cap and Dark black-ink contrast limitations remain; no universal figure-space improvement claim.",
+    "Historical incremental-install anomaly and original transient icon cause remain uncertain; owner-designated recovering Search icon nonblocking.",
+    "Metadata expiry/anti-replay/revocation not implemented; established trust unchanged.",
+    "Both encrypted key recovery copies remain on same MSI under owner-accepted temporary custody, not disaster recovery.",
+    "Full manuals/SAF/ARM64/API24/16KiB/EInk/stylus/broad lifecycle/Windows installer/production signing and physical acceptance remain separate."
+  ]
+}
