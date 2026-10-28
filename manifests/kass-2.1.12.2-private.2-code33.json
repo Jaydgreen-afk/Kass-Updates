@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.12.2-private.2/code33 private owner-test corrective prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 33,
+    "versionName": "2.1.12.2-private.2",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.12.2-private.2/Kass-v2.1.12.2-private.2-code33-menu-correction.apk",
+    "bytes": 57784213,
+    "sha256": "5f3c5424e3c9e5f9db847230b3934a295f7d2edad6e33e9182ea2b3216061fbf",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "4d7a112458b8317d11a906710929fdaf1d1ef55ea7bee6c022d3e6184aa0bccf",
+  "reviewedSourceId": "9fed1b6217eeba0e948b9ad86cde38db4c25b6a124fe646a2beb083235b05a9b",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1450,
+    "sha256": "904db65bd22c471684531f60cca197809b214e3200119b1175ed2b855a1504da",
+    "payloadSha256": "3eb3cf905405867065ab1e0a1db3069fa602d3f99ae1c3040939849718a221aa"
+  },
+  "validation": "Independent bounded code33 native correction PASS: Android15/API35/x86_64/WebView124, normal32to33Cancel/Update/data preservation, three-theme360px menu and affected controls/transitions. Reused code32 passes remain labeled reuse; signed online31to33 and owner acceptance not tested.",
+  "limitations": [
+    "Private owner-test corrective candidate, not production-stable.",
+    "Exact corrective native candidate gate PASS; metadata and actual signed online delivery/owner acceptance remain separate.",
+    "Owner reports code31 installed on Fold with no breakage noticed; not universal regression acceptance. Agents performed no phone actions.",
+    "Native code32 passes reused only by unchanged dependency provenance; original code32 remains held and preserved.",
+    "Corrected signed online31to33 download/controller/installer/coldboot/equal33 acceptance pending actual publication; do not substitute local installer evidence.",
+    "ARM64/Fold/physical stylus/EInk/API24/SAF/full manuals/broad lifecycle/security/custody/production signing gates remain.",
+    "DrawingEditor redesign, new Mods behaviors and experimental v2.2/document pipelines excluded.",
+    "Metadata expiry/anti-replay/revocation not implemented; established trust unchanged.",
+    "Both encrypted metadata key recovery copies remain on same MSI under owner-accepted temporary custody, not disaster recovery.",
+    "Historical stale updater-history label and unresolved icon/incremental observations retained; not silently fixed."
+  ],
+  "independentNativeQa": [
+    {
+      "report": "Iris_Code33_Correction_Disposition.txt",
+      "sha256": "57dbba6ffb84b387b7447ec02e052d7f635899f8e9ca78868fad2dcea65f1467"
+    }
+  ]
+}
