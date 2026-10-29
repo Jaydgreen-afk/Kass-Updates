@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.12.5-private.3/code39 private owner-test correction prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 39,
+    "versionName": "2.1.12.5-private.3",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.12.5-private.3/Kass-v2.1.12.5-private.3-code39-import-status.apk",
+    "bytes": 57813574,
+    "sha256": "6160d7f694479a14cc5f80fa4f0c28928516d7176780b718faa7d0f222f60b33",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "32e998c8861a9fda33537006cf47b6f03941d7560e3183f0bf32940782e7957f",
+  "reviewedSourceId": "bea0926e9dc9a13202679712098a29f288b1d337a6d12e3bac38153fb7849ea3",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1706,
+    "sha256": "0b386cef47616ee713ae468d75b6595d7610e8b894db78128713603a92441b46",
+    "payloadSha256": "4dd62ba79953c1b2dd8b29cdf98c8803aa767f03c455a52ed5d6b0d45f2804c2"
+  },
+  "validation": "Exact193file binding; exact39status/identityPASS; actual38completion and37intendednativeflow evidence reused. Signed39online and owneracceptance remain separate.",
+  "limitations": [
+    "Private owner-test candidate, not production-stable; owner acceptance remains open.",
+    "Exact39status/identityPASS; actual38completion and37intended import evidence reused. No new39freshimport or broadregression.",
+    "Actual signed online36to39 and authenticatedequal39 checks pending publication.",
+    "PhysicalBoox/Fold/ARM64/fullproprietaryLEMON/nativebackuppicker/PDFingestion/API24/extendedlifecycle/security provenance remain separate.",
+    "Arbitrarypicker/jobregistrationdelays/service restart/fullmanual/crashrecovery/timingstress not universallyqualified.",
+    "Metadata expiry/anti-replay/revocation not implemented; establishedtrust unchanged.",
+    "Both encryptedmetadata keyrecoverycopies remain on sameMSI underowneracceptedtemporarycustody, notdisasterrecovery.",
+    "IRIS-UPDATER-HISTORY-31 remains open; fresh-installseeding/broaderpolish/annotations/newicons/experimentalpipeline excluded."
+  ],
+  "independentQa": [
+    {
+      "report": "Iris_Code39_Status_Disposition.txt",
+      "sha256": "3827828e3384c07d6dac53e4c3ec4160c64bc11f04ea9a6196b44733487ff6d7",
+      "scope": "Exact39two-literal/nativeidentity/statusPASS; normal38to39/dataequal; nofresh39import"
+    },
+    {
+      "report": "Iris_Code38_Completion_Disposition.txt",
+      "sha256": "c1fbfec9cc269bb67d8336e914f491867cb3e7a045e4657eb9827bc5bedbc5f6",
+      "scope": "Exact38realSAF82nodes/earlyDataexit/completion/guards/dataPASS; encodingfinding superseded by39"
+    },
+    {
+      "report": "Iris_Code37_Import_Disposition.txt",
+      "sha256": "6f33c31e4242c8aab578c5460e8315f6d05a6182e43b1042edacd4e1dcca0046",
+      "scope": "Exact37intendedfreshSAF/backup/offline/type/theme/preservationPASS; refreshfinding superseded by38"
+    }
+  ]
+}
