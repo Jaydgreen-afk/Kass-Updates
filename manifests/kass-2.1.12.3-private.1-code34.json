@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.12.3-private.1/code34 private owner-test approved-overhaul prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 34,
+    "versionName": "2.1.12.3-private.1",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.12.3-private.1/Kass-v2.1.12.3-private.1-code34-approved-overhaul.apk",
+    "bytes": 57801045,
+    "sha256": "453fc58eceb345543e9003a9e93740c6e6a6a05823817b9de963b8eecbcd72e7",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "811d596adbb4c66cddd7918e12222c90f49f571d3a09689e90e13988f9bcbdc7",
+  "reviewedSourceId": "5de4b16f7c1cbd1aa12db1401c40f8e51448feb9b61744f25c75e87d14485add",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1530,
+    "sha256": "02431d2dd2ec2308379d98eb18ece313088139c85d2fa56dfd8ae3733f63dd65",
+    "payloadSha256": "bf422e6815774c2cff16ece5e966952b8fa44d6770beb62b1901819417431361"
+  },
+  "validation": "Exact190file binding, contributor full approved scope, independent affected desktop and exact34 native PASS. Signed34online and owner acceptance remain separate.",
+  "limitations": [
+    "Private owner-test candidate, not production-stable; owner visual/physical acceptance remains open.",
+    "Exact desktop and native bounded QA PASS; do not infer all-device or full-library acceptance.",
+    "Actual signed online33to34 and authenticatedequal34 checks pending publication; old33channel no-downgrade test is not online34 acceptance.",
+    "ARM64/Fold/stylus/EInk/API24/SAF/full real manuals/broad lifecycle/Windows installer and existing security/signing provenance gates remain.",
+    "Stale-vehicle async, pointercancel-specific dismissal, nonzero stage scroll and all adaptive-load/source-format transitions not qualified.",
+    "Metadata expiry/anti-replay/revocation not implemented; established trust unchanged.",
+    "Both encrypted metadata key recovery copies remain on same MSI under owner-accepted temporary custody, not disaster recovery.",
+    "Historical updater-history label and other previously named issues retained; no unrelated experiments or document-processing pipeline included."
+  ],
+  "independentQa": [
+    {
+      "report": "Iris_Code34_Native_Disposition.txt",
+      "sha256": "389dccddbea8ef1212a06a49eb03118201457101c43c24f1dd02d553ccb9d6a3",
+      "scope": "Exact34 bounded native PASS; no online34/owner acceptance"
+    },
+    {
+      "report": "Iris_Approved_Overhaul_Disposition.txt",
+      "sha256": "a04d459e7f59b682acabe33b467c32c586ec8d4340da01d84b2d7dcaf3261e68",
+      "scope": "Exact5de4 implementation full-approved-scope and bounded affected desktop PASS"
+    }
+  ]
+}
