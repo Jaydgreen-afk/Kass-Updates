@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.12.4-private.2/code36 private owner-test correction prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 36,
+    "versionName": "2.1.12.4-private.2",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.12.4-private.2/Kass-v2.1.12.4-private.2-code36-position-correction.apk",
+    "bytes": 57813574,
+    "sha256": "8fc7d9f840a5a1d485e5b10a2590cdb63a7d6f37bce179e4c60af80fdaebf12b",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "e5b56306b087523400e1b4ee6256844c3f4711eb9f032e28c558572162f51695",
+  "reviewedSourceId": "0933d0a9cd2eb51f7a29d2aabcaea0d54c127a2a70e0bdc66ff2454c5bc429b6",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 1658,
+    "sha256": "261c70cba685c59869d37153be27ef461d2278971f7367b12a97821e80fd7548",
+    "payloadSha256": "e0c845293c36988427584d12c1754101d0eb246b2e7208a9f961c30b0614ac1a"
+  },
+  "validation": "Exact193file binding; prior bounded desktop/native evidence reused; exact36 targeted native position/guards/data PASS. Signed36online and owner acceptance remain separate.",
+  "limitations": [
+    "Private owner-test candidate, not production-stable; owner acceptance remains open.",
+    "Exact36 native correction PASS and unaffected35 evidence reused; no broad fresh36 regression or process-restart test.",
+    "Actual signed online34to36 and authenticatedequal36 checks pending publication.",
+    "Physical Fold/ARM64/stylus/API24/SAF/fullrealmanuals/broad lifecycle/Windows installer/security provenance remain separate.",
+    "Narrow-layout positions, inner-stage offsets, decode races and indefinitely pending metadata not qualified by exact36 targeted pass.",
+    "Metadata expiry/anti-replay/revocation not implemented; established trust unchanged.",
+    "Both encrypted metadata key recovery copies remain on same MSI under owner-accepted temporary custody, not disaster recovery.",
+    "IRIS-UPDATER-HISTORY-31 remains open; hyperlinks/index navigation and v2.2 pipeline excluded."
+  ],
+  "independentQa": [
+    {
+      "report": "Iris_Code36_Position_Disposition.txt",
+      "sha256": "bee35a66efe4c095e695ed15b8eb90d20eaf5cb1c4ab29cd86b3f64cbee3abec",
+      "scope": "Exact36 targeted native position/guards/data PASS; no HTTPS36/owner acceptance"
+    },
+    {
+      "report": "Iris_Code35_Native_Disposition.txt",
+      "sha256": "811995261f508cfce7666972278240efcbde3f3947a4eecc4123b4eb079fefb6",
+      "scope": "Unaffected35 bounded native results reused; position failure superseded only by exact36 recheck"
+    },
+    {
+      "report": "Iris_Review2_Disposition.txt",
+      "sha256": "79a9bb18f94b00238c04f6090a2ff2cc959c243152b843de450415a68d35a9d0",
+      "scope": "Review2 bounded independent desktop PASS; one-file position correction covered by exact36 native"
+    }
+  ]
+}
