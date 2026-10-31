@@ -1,0 +1,2 @@
+Temporary GitHub connector write/delete test authorized by Devon on 2026-10-31.
+This file will be deleted immediately after readback verification.
