@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "designation": "2.1.12.6-private.3/code42 private owner-test prerelease; not production-stable",
+  "applicationId": "io.github.jaydgreenafk.kass.uipatchspike",
+  "artifact": {
+    "versionCode": 42,
+    "versionName": "2.1.12.6-private.3",
+    "url": "https://github.com/Jaydgreen-afk/Kass-Updates/releases/download/v2.1.12.6-private.3/Kass-v2.1.12.6-private.3-code42-source-host-correction.apk",
+    "bytes": 57830288,
+    "sha256": "de10beb368488440d06ce113c33a620171bc5dd1dfb9e371506510d4d8a36aa4",
+    "certificateSha256": "881154e4367cd3845f02da2bee90882cf84c8a42014215578e75502ec3a3f76c"
+  },
+  "sourceBuildId": "33fcc46df300b805a6f572ce9e48c8f1cd9ccaf5aa348ffbabb6858b331e3446",
+  "reviewedSourceId": "33fcc46df300b805a6f572ce9e48c8f1cd9ccaf5aa348ffbabb6858b331e3446",
+  "metadataKey": {
+    "keyId": "kass-metadata-2026-7ebd596a628fc58f",
+    "spkiSha256": "7ebd596a628fc58f98bddb168a1555a5290049163a7556a367c766a66df7223e"
+  },
+  "channel": {
+    "url": "https://raw.githubusercontent.com/Jaydgreen-afk/Kass-Updates/main/channels/private-review.json",
+    "bytes": 2026,
+    "sha256": "0aac1bd25407bbebffe15651e57a1a6a6656c2fa2108577a363835cb2fa5667a",
+    "payloadSha256": "76631410d5d83bbe8c41193ffc1a96aa454c6566c0c60542e211273682a97dde"
+  },
+  "validation": "197file exact binding; independent42 affected native PASS with unchanged41 layout/Library/drag/memory scope reused. HTTPS update and owner acceptance remain separate.",
+  "limitations": [
+    "Private owner-test candidate, not production-stable; integrated owner visual/functional acceptance remains open.",
+    "About604-605MiB combined app/renderer PSS retained after three large-image cycles; no physical memory budget, ARM64 or long soak acceptance.",
+    "Actual signed HTTPS update to42 and authenticated equal42/offline/retry gate pending publication; local41to42 installer is separate.",
+    "Full proprietary manuals, physical Fold/Boox, API24, stylus, Windows package and runtime/security provenance remain separate gates.",
+    "Unidentified first-open Boox fullscreen and IRIS-UPDATER-HISTORY-31 remain open.",
+    "No source pipeline/index redesign, task-card regrouping, new Mods behavior, annotation redesign, Home redesign or unapproved artwork.",
+    "Metadata expiry/anti-replay/revocation not implemented; existing trust unchanged.",
+    "Both encrypted metadata-key recovery copies remain on same MSI under owner-accepted temporary custody; not disaster recovery."
+  ],
+  "independentQa": [
+    {
+      "report": "Iris_Code42_Disposition.txt",
+      "sha256": "8024588ebf3bd8a599c770e13fc7be1fb083a3051daac2e81e8f1109a432d0a1",
+      "scope": "Exact42 source-host native closure, three-theme linked legend/drawing/source context, notes/offline/restart and preservation PASS; normal41to42 local installer, not HTTPS"
+    },
+    {
+      "report": "Iris_Source_Review.txt",
+      "sha256": "10a5f18b73769e71190c12c80d20962f278be4c474180928d85b25aaf6ed3b80",
+      "scope": "Independent10case source/provenance correction PASS on saved failing DB copy"
+    },
+    {
+      "report": "Iris_Code41_Disposition.txt",
+      "sha256": "c29237222022920bdc363c95008bd37ccfbcba1977754c865bce982c1291af7a",
+      "scope": "Exact41 closed drag/layout/Library/Dark and bounded six-large-image stability evidence reused; source-host HOLD superseded by42 closure only"
+    }
+  ]
+}
